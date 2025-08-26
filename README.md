@@ -11,7 +11,7 @@ A simple and dynamic **Blog Website** built with **PHP** and **MySQL** that allo
 - Display blog posts with title, author, and timestamp  
 - Recent posts sidebar for easy navigation  
 - Responsive design using **Bootstrap**  
-- Session and cookie-based login with "Remember Me" option  
+ 
 
 ---
 
@@ -23,6 +23,13 @@ A simple and dynamic **Blog Website** built with **PHP** and **MySQL** that allo
 
 ---
 
-## 📂 Project Structure
+## 📂 Blog Users
+-**Admin Credentials**
+-**Email:**ohemaa@gmail.com
+-**Password:**123456
+
+-**User Credentials **
+-**Email:**nana@gmail.com
+-**Password:**123456
 
 multi user blogging system
