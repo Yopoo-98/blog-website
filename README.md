@@ -23,13 +23,37 @@ A simple and dynamic **Blog Website** built with **PHP** and **MySQL** that allo
 
 ---
 
-## 📂 Blog Users
--**Admin Credentials**
--**Email:**ohemaa@gmail.com
--**Password:**123456
+---
 
--**User Credentials **
--**Email:**nana@gmail.com
--**Password:**123456
+## ⚙️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Yopoo-98/blog-website.git
+Import the database:
+
+2. Open phpMyAdmin
+
+Create a database (e.g., blog_db)
+
+Import blog.sql file
+
+Configure database connection:
+Edit /config/connection.php and update with your credentials
+$conn = mysqli_connect("localhost", "root", "", "blog");
+
+4. Run the project:
+
+Move the project folder into htdocs (XAMPP) or www (WAMP)
+
+Visit http://localhost/blog-website in your browser
+
+## 📂 Blog Users details
+-**Admin Credentials**
+-Email:**ohemaa@gmail.com
+-Password:**123456
+
+-User Credentials **
+-Email:**nana@gmail.com
+-Password:**123456
 
 multi user blogging system
